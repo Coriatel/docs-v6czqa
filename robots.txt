@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-5q0fds.qrmenu42.com/sitemap.xml
